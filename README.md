@@ -10,4 +10,4 @@ Repositório para armazenar resumos sobre o Git e o GitHub da matéria apresenta
 |Aulas|Páginas|
 |---------|----------|
 |Gravandos alterações|1 a 15|
-|Criando um diretório|16 a 18|
+|Criando um diretório|16 a 19|
