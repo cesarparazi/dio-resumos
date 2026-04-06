@@ -7,8 +7,16 @@ Repositório para armazenar resumos sobre o Git e o GitHub da matéria apresenta
 - [Documentação GitHub](https://docs.github.com/pt)
 
 ## Resumos das Aulas
-|Aulas|Páginas|
-|---------|----------|
-|Gravandos alterações|1 a 15|
-|Criando um diretório|16 a 20|
+| Aula | Resumos |
+|------|---------|
+| Aula 01 | [Resumo]()|
+| Aula 02 | [Resumo]()|
+
+---
+git init
+---
+
+
+## Referências
+- [Digital Innovation One]().
 
