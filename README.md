@@ -6,7 +6,7 @@ Repositório para armazenar resumos sobre o Git e o GitHub da matéria apresenta
 - [Documentação Git](https://git-scm.com/docs/git/pt_BR)
 - [Documentação GitHub](https://docs.github.com/pt)
 
-## Resumos das Aulas
+## Resumos das   Aulas
 | Aula | Resumos |
 |------|---------|
 | Aula 01 | [Resumo]()|
