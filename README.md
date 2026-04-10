@@ -11,6 +11,8 @@ Repositório para armazenar resumos sobre o Git e o GitHub da matéria apresenta
 |------|---------|
 | Aula 01 | [Resumo]()|
 | Aula 02 | [Resumo]()|
+| Aula 03 | [Resumo]()|
+
 
 ---
 git init
